@@ -1,0 +1,100 @@
+p{
+    font-size: 25px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: dimgray;
+}
+h1{
+    font-size:24px;
+}
+h2{
+    font-size: 25px;
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding: 2%;
+}
+.link-button{
+    
+    color: white;
+    font-weight: 700;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 8px;
+    background-image:linear-gradient(45deg, lightsalmon,tomato)
+}
+.half-width img  {
+    width: 100%;
+}
+section{
+    height: 550px;
+    width: 100%;
+    padding-bottom:150px;
+    margin-bottom:40px ;
+}
+.tomato-highlight{
+    color: tomato;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-shadow: 3px 2px gray;
+}
+.first-section{
+    background-image: url(images/header-bg.png);
+    box-shadow: 10px 10px 40px gray;
+}
+.second-section{
+    background-image: url(images/biography-bg.png);
+    box-shadow: 10px 10px 40px gray;
+}
+.latest-work{
+    background-image: url(images/biography-bg.png);
+    box-shadow: 10px 10px 40px gray;
+}
+#my-latest-name{
+    font-size: 40px;
+    font-weight: 700;
+    font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    text-align: center;
+}
+.third-width{
+    width: 28%;
+    float: left;
+    margin-left:  3%;
+   padding-left: 2%;
+   box-shadow: 10px 10px 40px gray;
+    
+   
+}
+.third-width img{
+    width: 100%;
+}
+.client-say{
+    font-size: 50px;
+    font-weight: 500;
+    text-align: center;
+}
+.footer-text{
+    text-align: center;
+}
+.footer-bg{
+    background-image:url(images/biography-bg.png);
+    box-shadow: 10px 10px 40px gray;
+}
+.footer-link{
+    text-align: center;
+    padding: 5px 5px;
+    border-radius: 10px;
+    background-image:linear-gradient(45deg, lightsalmon,tomato);
+
+
+}
+.link-button-2{
+    color: white;
+    font-weight: 700;
+    text-decoration: none;
+
+}
+.copyright{
+    text-align: center;
+    font-size: 15px;
+}
